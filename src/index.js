@@ -7,7 +7,7 @@ import "./css/styles.css";
 console.log("Hi, you there!");
 const API_KEY = "33411326-e3b74484d09501fb125cb8795";
 let pageNumber = 1;
-let perPage = 12;
+let perPage = 40;
 
 const searchForm = document.querySelector(".search-form");
 const searchBtn = document.querySelector(".search-btn");
